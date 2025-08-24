@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-CORS
+Flask-Migrate
+redis
+celery
+Flask-Mail
+Flask-Caching
+requests>=2.28.0
