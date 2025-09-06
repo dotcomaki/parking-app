@@ -7,7 +7,7 @@ A comprehensive multi-user parking management system built with Vue.js and Flask
 ![Flask](https://img.shields.io/badge/Flask-2.x-red)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.x-purple)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -16,28 +16,28 @@ A comprehensive multi-user parking management system built with Vue.js and Flask
 - [Background Tasks](#background-tasks)
 - [Contributing](#contributing)
 
-## ✨ Features
+## Features
 
 ### For Users
-- 🏢 **Parking Lot Discovery** - Browse available parking locations
-- ⚡ **Quick Booking** - One-click reservation system
-- 📊 **Reservation Management** - Track active and historical bookings
-- 💰 **Automatic Billing** - Cost calculation based on parking duration
-- 📤 **Data Export** - Download parking history as CSV
+- **Parking Lot Discovery** - Browse available parking locations
+- **Quick Booking** - One-click reservation system
+- **Reservation Management** - Track active and historical bookings
+- **Automatic Billing** - Cost calculation based on parking duration
+- **Data Export** - Download parking history as CSV
 
 ### For Administrators
-- 🏗️ **Lot Management** - Create, update, and delete parking facilities
-- 👥 **User Management** - View and manage registered users
-- 📈 **Analytics Dashboard** - Revenue and utilization insights
-- 🔍 **Advanced Search** - Query system by various criteria
-- 📱 **Real-time Monitoring** - Live parking spot status
+- **Lot Management** - Create, update, and delete parking facilities
+- **User Management** - View and manage registered users
+- **Analytics Dashboard** - Revenue and utilization insights
+- **Advanced Search** - Query system by various criteria
+- **Real-time Monitoring** - Live parking spot status
 
 ### Technical Features
-- 🔐 **Secure Authentication** - JWT-based user authentication
-- 📱 **Responsive Design** - Works on desktop and mobile
-- ⚡ **Real-time Updates** - Live data without page refresh
-- 🚀 **Background Tasks** - Automated reminders and reports
-- 📊 **Data Visualization** - Charts and analytics
+- **Secure Authentication** - JWT-based user authentication
+- **Responsive Design** - Works on desktop and mobile
+- **Real-time Updates** - Live data without page refresh
+- **Background Tasks** - Automated reminders and reports
+- **Data Visualization** - Charts and analytics
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +62,7 @@ A comprehensive multi-user parking management system built with Vue.js and Flask
 - **Flask-JWT-Extended** - JWT implementation
 - **Flask-Mail** - Email functionality
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.7+
@@ -93,7 +93,7 @@ A comprehensive multi-user parking management system built with Vue.js and Flask
    - Frontend: http://localhost:8080
    - Backend API: http://localhost:5000
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 parkingapp/
@@ -121,7 +121,7 @@ parkingapp/
 └── 📄 README.md              # This file
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 Create a `.env` file in the backend directory:
@@ -161,12 +161,12 @@ npm run test
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
+## Author
 
 **Akif M**  
 
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Support
+## Support
 
 If you encounter any issues:
 
