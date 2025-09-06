@@ -23,3 +23,9 @@ pnpm-debug.log*
 *.sw?
 
 cookies.txt
+
+# Python: compiled cache folders
+__pycache__/
+
+# Local SQLite DB
+app.db
